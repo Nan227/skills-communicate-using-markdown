@@ -3,8 +3,7 @@
 
 
 ### Image
-![image add](https://komarev.com/ghpvc/?username=seanpm2001)
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Add code
 ```
