@@ -9,11 +9,14 @@
 ```
 funtion github() {
     console.log("github code");
-
-
 }
 ```
+### copy code "$git init" from GitHub
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 ## Make a task list
 - [x] Add image
